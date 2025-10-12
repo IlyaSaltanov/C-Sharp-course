@@ -1,0 +1,14 @@
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/bin/Debug/net9.0/new mini project
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/bin/Debug/net9.0/new mini project.deps.json
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/bin/Debug/net9.0/new mini project.runtimeconfig.json
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/bin/Debug/net9.0/new mini project.dll
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/bin/Debug/net9.0/new mini project.pdb
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.dll
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/refint/new mini project.dll
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.pdb
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/new mini project.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C#/Натуральные числа 3 знака/new mini project/obj/Debug/net9.0/ref/new mini project.dll

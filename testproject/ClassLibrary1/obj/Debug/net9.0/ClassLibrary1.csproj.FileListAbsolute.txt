@@ -1,0 +1,11 @@
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/bin/Debug/net9.0/ClassLibrary1.deps.json
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/bin/Debug/net9.0/ClassLibrary1.dll
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/bin/Debug/net9.0/ClassLibrary1.pdb
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.dll
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/refint/ClassLibrary1.dll
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.pdb
+/Users/ilyasaltanov/projects/C#/testproject/ClassLibrary1/obj/Debug/net9.0/ref/ClassLibrary1.dll

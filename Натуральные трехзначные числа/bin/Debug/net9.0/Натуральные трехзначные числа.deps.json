@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Натуральные трехзначные числа/1.0.0": {
+        "runtime": {
+          "Натуральные трехзначные числа.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Натуральные трехзначные числа/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

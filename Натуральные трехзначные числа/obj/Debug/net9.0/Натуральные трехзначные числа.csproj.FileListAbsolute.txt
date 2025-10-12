@@ -1,0 +1,14 @@
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/bin/Debug/net9.0/Натуральные трехзначные числа
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/bin/Debug/net9.0/Натуральные трехзначные числа.deps.json
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/bin/Debug/net9.0/Натуральные трехзначные числа.runtimeconfig.json
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/bin/Debug/net9.0/Натуральные трехзначные числа.dll
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/bin/Debug/net9.0/Натуральные трехзначные числа.pdb
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.dll
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/refint/Натуральные трехзначные числа.dll
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.pdb
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/Натуральные трехзначные числа.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C#/Натуральные трехзначные числа/obj/Debug/net9.0/ref/Натуральные трехзначные числа.dll

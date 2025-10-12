@@ -1,0 +1,14 @@
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/bin/Debug/net9.0/Практика «Проценты»
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/bin/Debug/net9.0/Практика «Проценты».deps.json
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/bin/Debug/net9.0/Практика «Проценты».runtimeconfig.json
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/bin/Debug/net9.0/Практика «Проценты».dll
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/bin/Debug/net9.0/Практика «Проценты».pdb
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».dll
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/refint/Практика «Проценты».dll
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».pdb
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/Практика «Проценты».genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C#/Практика «Проценты»/obj/Debug/net9.0/ref/Практика «Проценты».dll

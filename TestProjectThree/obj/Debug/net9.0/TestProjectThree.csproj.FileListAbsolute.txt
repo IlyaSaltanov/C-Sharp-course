@@ -1,0 +1,14 @@
+/Users/ilyasaltanov/projects/C#/TestProjectThree/bin/Debug/net9.0/TestProjectThree
+/Users/ilyasaltanov/projects/C#/TestProjectThree/bin/Debug/net9.0/TestProjectThree.deps.json
+/Users/ilyasaltanov/projects/C#/TestProjectThree/bin/Debug/net9.0/TestProjectThree.runtimeconfig.json
+/Users/ilyasaltanov/projects/C#/TestProjectThree/bin/Debug/net9.0/TestProjectThree.dll
+/Users/ilyasaltanov/projects/C#/TestProjectThree/bin/Debug/net9.0/TestProjectThree.pdb
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.dll
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/refint/TestProjectThree.dll
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.pdb
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/TestProjectThree.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C#/TestProjectThree/obj/Debug/net9.0/ref/TestProjectThree.dll

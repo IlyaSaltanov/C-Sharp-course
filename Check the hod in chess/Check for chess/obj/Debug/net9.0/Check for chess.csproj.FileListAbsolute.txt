@@ -1,0 +1,14 @@
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/bin/Debug/net9.0/Check for chess
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/bin/Debug/net9.0/Check for chess.deps.json
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/bin/Debug/net9.0/Check for chess.runtimeconfig.json
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/bin/Debug/net9.0/Check for chess.dll
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/bin/Debug/net9.0/Check for chess.pdb
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.dll
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/refint/Check for chess.dll
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.pdb
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/Check for chess.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C#/Check the hod in chess/Check for chess/obj/Debug/net9.0/ref/Check for chess.dll
