@@ -26,8 +26,8 @@ public static class DistanceTask
                 var dxa = Math.Abs(x - ax);
         var dya = y - ay;
         var dxb = x - bx;
-        var dyb = Math.Abs(y - by);
-        var dxc = Math.Abs(ax - bx);
+        var dyb = y - by;
+        var dxc = ax - bx;
         var dyc = Math.Abs(ay - by);
         var cosOne = (dxa * dxc + dya * dyc) / (Math.Sqrt(dxa * dxa + dya * dya) * Math.Sqrt(dxc * dxc + dyc * dyc));
         var cosTwo = (dxb * dxc + dyb * dyc) / (Math.Sqrt(dxb * dxb + dyb * dyb) * Math.Sqrt(dxc * dxc + dyc * dyc));
