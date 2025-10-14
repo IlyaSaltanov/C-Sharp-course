@@ -23,7 +23,7 @@ public static class DistanceTask
         // var dyb = Math.Abs(y - by);
         // var dxc = Math.Abs(ax - bx);
         // var dyc = Math.Abs(ay - by);
-        var dxa = Math.Abs(x - ax);
+        var dxa = x - ax;
         var dya = y - ay;
         var dxb = x - bx;
         var dyb = y - by;
