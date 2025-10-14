@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistanceTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92b513a348c109196045b975b015bf42b43638e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistanceTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistanceTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
