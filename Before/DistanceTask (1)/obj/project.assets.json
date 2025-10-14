@@ -4773,11 +4773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ilyasaltanov/Downloads/DistanceTask (1)/DistanceTask.csproj",
+      "projectUniqueName": "/Users/ilyasaltanov/projects/C# (Course from contur)/Before/DistanceTask (1)/DistanceTask.csproj",
       "projectName": "DistanceTask",
-      "projectPath": "/Users/ilyasaltanov/Downloads/DistanceTask (1)/DistanceTask.csproj",
+      "projectPath": "/Users/ilyasaltanov/projects/C# (Course from contur)/Before/DistanceTask (1)/DistanceTask.csproj",
       "packagesPath": "/Users/ilyasaltanov/.nuget/packages/",
-      "outputPath": "/Users/ilyasaltanov/Downloads/DistanceTask (1)/obj/",
+      "outputPath": "/Users/ilyasaltanov/projects/C# (Course from contur)/Before/DistanceTask (1)/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ilyasaltanov/.nuget/NuGet/NuGet.Config"
