@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Testhowitwork")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Shifr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37a480955a5749bc888b27cbb484e47c1cb7b3ee")]
-[assembly: System.Reflection.AssemblyProductAttribute("Testhowitwork")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Testhowitwork")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+611e4fcde00b4b3070b8410dfbfa5bb5f76f6562")]
+[assembly: System.Reflection.AssemblyProductAttribute("Shifr")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Shifr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

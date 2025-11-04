@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Testhowitwork/Testhowitwork.csproj",
-      "projectName": "Testhowitwork",
-      "projectPath": "/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Testhowitwork/Testhowitwork.csproj",
+      "projectUniqueName": "/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Shifr/Shifr.csproj",
+      "projectName": "Shifr",
+      "projectPath": "/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Shifr/Shifr.csproj",
       "packagesPath": "/Users/ilyasaltanov/.nuget/packages/",
-      "outputPath": "/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Testhowitwork/obj/",
+      "outputPath": "/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Shifr/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ilyasaltanov/.nuget/NuGet/NuGet.Config"
