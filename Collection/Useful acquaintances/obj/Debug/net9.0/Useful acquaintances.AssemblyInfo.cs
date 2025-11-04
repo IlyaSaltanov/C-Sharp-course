@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Shifr")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Useful acquaintances")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+148ac06ed7a450f17469be2c68697732bfc89f3f")]
-[assembly: System.Reflection.AssemblyProductAttribute("Shifr")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Shifr")]
+[assembly: System.Reflection.AssemblyProductAttribute("Useful acquaintances")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Useful acquaintances")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

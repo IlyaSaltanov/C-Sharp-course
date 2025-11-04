@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/bin/Debug/net9.0/Useful acquaintances
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/bin/Debug/net9.0/Useful acquaintances.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/bin/Debug/net9.0/Useful acquaintances.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/bin/Debug/net9.0/Useful acquaintances.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/bin/Debug/net9.0/Useful acquaintances.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/refint/Useful acquaintances.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/Useful acquaintances.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Useful acquaintances/obj/Debug/net9.0/ref/Useful acquaintances.dll
