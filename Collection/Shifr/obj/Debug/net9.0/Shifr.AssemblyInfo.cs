@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shifr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+148ac06ed7a450f17469be2c68697732bfc89f3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0595e416e0f60995712ad9e7b5afe9db976d17bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shifr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shifr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

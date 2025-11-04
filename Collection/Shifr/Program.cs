@@ -14,7 +14,11 @@ class Program
             for (int q = 0; q < spStroka.Length ; q++)
             {
                 string strElemnt = spStroka[q];
-                if (strElemnt[0] == char.ToUpper(strElemnt[0]))
+                // if (strElemnt[0] == char.ToUpper(strElemnt[0]))
+                // {
+                //     myList.Add(strElemnt);
+                // }   
+                if (!string.IsNullOrEmpty(strElemnt) && char.IsUpper(strElemnt[0]))
                 {
                     myList.Add(strElemnt);
                 }   
