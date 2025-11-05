@@ -12,8 +12,14 @@ class Program
         for (int i = 0; i < lines.Length; i++)
         {
             var line = lines[i];
-            var elements = line.Split(new char[] { ' ', ';', ',', ':', '-'});
-            string result = string.Join("\t", elements) + "\n";
+            var elements = line.Split(new char[] { ' ', ';', ',', ':', '-' }, StringSplitOptions.RemoveEmptyEntries);
+            // string text = "яблоко,,банан,груша,";
+            // string[] result = text.Split(',', StringSplitOptions.RemoveEmptyEntries);
+
+
+// result: ["яблоко", "банан", "груша"]
+
+            string result = string.Join("\t", elements);
             // Console.WriteLine(result);
             answer += result;
         }
