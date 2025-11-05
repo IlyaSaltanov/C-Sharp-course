@@ -17,12 +17,16 @@ class Program
             var line = lines[i];
             var elements = line.Split(' ');
             var number = elements[elements.Length - 1];
-            Console.WriteLine("number");
-            Console.WriteLine(number);
+            // Console.WriteLine("number");
+            // Console.WriteLine(number);
             var digit = number[0];
-            Console.WriteLine("digit");
-            Console.WriteLine(digit);
-            // statistics[digit] += 1;
+            // var digit = (int)number[0];
+            // Console.WriteLine("digit");
+            // Console.WriteLine(digit);
+            // Console.WriteLine(digit.GetType());
+            // Console.WriteLine(digit - '0');
+            // Console.WriteLine((digit - '0').GetType());
+            statistics[digit - '0'] += 1;
         }
         return statistics;
     }
