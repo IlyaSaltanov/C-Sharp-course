@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/bin/Debug/net9.0/Split and Join
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/bin/Debug/net9.0/Split and Join.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/bin/Debug/net9.0/Split and Join.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/bin/Debug/net9.0/Split and Join.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/bin/Debug/net9.0/Split and Join.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/refint/Split and Join.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/Split and Join.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Split and Join/obj/Debug/net9.0/ref/Split and Join.dll
