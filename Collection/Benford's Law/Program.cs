@@ -2,31 +2,35 @@
 
 
 
-
+using System.Text.RegularExpressions;
 using System.Globalization;
 
 class Program
 {
     public static int[] GetBenfordStatistics(string text)
     {
+        // Regex regex = new Regex(@"[0-9]");
         var statistics = new int[10];
         string[] lines = text.Split("\n");
         for (int i = 0; i < lines.Length; i++)
         {
             // Console.WriteLine(lines[i]);
             var line = lines[i];
-            var elements = line.Split(' ');
-            var number = elements[elements.Length - 1];
-            // Console.WriteLine("number");
-            // Console.WriteLine(number);
-            var digit = number[0];
-            // var digit = (int)number[0];
-            // Console.WriteLine("digit");
-            // Console.WriteLine(digit);
-            // Console.WriteLine(digit.GetType());
-            // Console.WriteLine(digit - '0');
-            // Console.WriteLine((digit - '0').GetType());
-            statistics[digit - '0'] += 1;
+            if (Regex.IsMatch(line, @"[0-9]"))
+            {
+                var elements = line.Split(' ');
+                var number = elements[elements.Length - 1];
+                // Console.WriteLine("number");
+                // Console.WriteLine(number);
+                var digit = number[0];
+                // var digit = (int)number[0];
+                // Console.WriteLine("digit");
+                // Console.WriteLine(digit);
+                // Console.WriteLine(digit.GetType());
+                // Console.WriteLine(digit - '0');
+                // Console.WriteLine((digit - '0').GetType());
+                statistics[digit - '0'] += 1;
+            }
         }
         return statistics;
     }
@@ -104,10 +108,10 @@ class Program
             Île Vierge Lighthouse 83
             Murudeshwara Temple 76
             """;
-        // PrintNumbers(GetBenfordStatistics("1"));
-        // PrintNumbers(GetBenfordStatistics("abc"));
-        // PrintNumbers(GetBenfordStatistics("123 456 789"));
-        // PrintNumbers(GetBenfordStatistics("abc 123 def 456 gf 789 i"));
+        PrintNumbers(GetBenfordStatistics("1"));
+        PrintNumbers(GetBenfordStatistics("abc"));
+        PrintNumbers(GetBenfordStatistics("123 456 789"));
+        PrintNumbers(GetBenfordStatistics("abc 123 def 456 gf 789 i"));
         PrintNumbers(GetBenfordStatistics(tallestBuildings));
     }
 }
