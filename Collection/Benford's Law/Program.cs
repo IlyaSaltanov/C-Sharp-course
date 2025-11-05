@@ -8,14 +8,16 @@ class Program
     public static int[] GetBenfordStatistics(string text)
     {
         var statistics = new int[10];
-        for (int i = 0; i < text.Length; i++)
+        string[] lines = text.Split("\n");
+        for (int i = 0; i < lines.Length; i++)
         {
+            // Console.WriteLine(lines[i]);
             
         }
         return statistics;
     }
 
-    static string PrintNumbers(int[] massive)
+    static void PrintNumbers(int[] massive)
     {
         for (int i = 0; i < massive.Length; i++)
         {
@@ -88,10 +90,10 @@ class Program
             Île Vierge Lighthouse 83
             Murudeshwara Temple 76
             """;
-        PrintNumbers(GetBenfordStatistics("1"));
-        PrintNumbers(GetBenfordStatistics("abc"));
-        PrintNumbers(GetBenfordStatistics("123 456 789"));
-        PrintNumbers(GetBenfordStatistics("abc 123 def 456 gf 789 i"));
+        // PrintNumbers(GetBenfordStatistics("1"));
+        // PrintNumbers(GetBenfordStatistics("abc"));
+        // PrintNumbers(GetBenfordStatistics("123 456 789"));
+        // PrintNumbers(GetBenfordStatistics("abc 123 def 456 gf 789 i"));
         PrintNumbers(GetBenfordStatistics(tallestBuildings));
     }
 }
