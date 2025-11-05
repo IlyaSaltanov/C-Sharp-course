@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/bin/Debug/net9.0/Benford's Law
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/bin/Debug/net9.0/Benford's Law.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/bin/Debug/net9.0/Benford's Law.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/bin/Debug/net9.0/Benford's Law.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/bin/Debug/net9.0/Benford's Law.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/refint/Benford's Law.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/Benford's Law.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law/obj/Debug/net9.0/ref/Benford's Law.dll

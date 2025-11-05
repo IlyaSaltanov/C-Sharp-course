@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Shifr")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Benford\'s Law")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ef076478aa6a341d41b3d4d93f26a6666944fa6")]
-[assembly: System.Reflection.AssemblyProductAttribute("Shifr")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Shifr")]
+[assembly: System.Reflection.AssemblyProductAttribute("Benford\'s Law")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Benford\'s Law")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
