@@ -12,7 +12,7 @@ class Program
         for (int i = 0; i < lines.Length; i++)
         {
             var line = lines[i];
-            var elements = line.Split(new char[] { ' ', ';', ',', ':' });
+            var elements = line.Split(new char[] { ' ', ';', ',', ':', '-'});
             string result = string.Join("\t", elements) + "\n";
             // Console.WriteLine(result);
             answer += result;
