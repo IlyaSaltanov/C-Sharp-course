@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Benford\'s Law")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbf00f5a34aec45fa8bc1c3541c6ee54f88667f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd76cf1849dff60c261be8301a588e40d2c8988")]
 [assembly: System.Reflection.AssemblyProductAttribute("Benford\'s Law")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Benford\'s Law")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

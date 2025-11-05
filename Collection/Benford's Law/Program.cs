@@ -3,6 +3,8 @@
 
 
 
+using System.Globalization;
+
 class Program
 {
     public static int[] GetBenfordStatistics(string text)
@@ -12,7 +14,15 @@ class Program
         for (int i = 0; i < lines.Length; i++)
         {
             // Console.WriteLine(lines[i]);
-            
+            var line = lines[i];
+            var elements = line.Split(' ');
+            var number = elements[elements.Length - 1];
+            Console.WriteLine("number");
+            Console.WriteLine(number);
+            var digit = number[0];
+            Console.WriteLine("digit");
+            Console.WriteLine(digit);
+            // statistics[digit] += 1;
         }
         return statistics;
     }
