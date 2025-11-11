@@ -7,6 +7,8 @@ public static class RectanglesTask
     // Пересекаются ли два прямоугольника (пересечение только по границе также считается пересечением)
     public static bool AreIntersected(Rectangle r1, Rectangle r2)
     {
+        // так можно обратиться к координатам левого верхнего угла первого прямоугольника: r1.Left, r1.Top
+
         // Прямоугольники пересекаются, если:
         // - левая граница первого не правее правой границы второго И
         // - правая граница первого не левее левой границы второго И  
@@ -24,7 +26,7 @@ public static class RectanglesTask
         if (!AreIntersected(r1, r2))
             return 0;
 
-        // Находим координаты прямоугольника пересечения:
+        // Находим координаты СТОРОН прямоугольника пересечения:
         int left = Math.Max(r1.Left, r2.Left);
         int right = Math.Min(r1.Right, r2.Right);
         int top = Math.Max(r1.Top, r2.Top);
