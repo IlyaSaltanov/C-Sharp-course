@@ -19,17 +19,16 @@ class Program
             if (Regex.IsMatch(line, @"[0-9]"))
             {
                 var elements = line.Split(' ');
-                var number = elements[elements.Length - 1];
-                // Console.WriteLine("number");
-                // Console.WriteLine(number);
-                var digit = number[0];
-                // var digit = (int)number[0];
-                // Console.WriteLine("digit");
-                // Console.WriteLine(digit);
-                // Console.WriteLine(digit.GetType());
-                // Console.WriteLine(digit - '0');
-                // Console.WriteLine((digit - '0').GetType());
-                statistics[digit - '0'] += 1;
+                // var number = elements[elements.Length - 1];
+                for (int q = 0; q < elements.Length; q++)
+                {
+                    var element = elements[q];
+                    if (Regex.IsMatch(element, @"[0-9]"))
+                    {
+                        var digit = element[0];
+                        statistics[digit - '0'] += 1;
+                    }
+                }
             }
         }
         return statistics;
@@ -37,11 +36,13 @@ class Program
 
     static void PrintNumbers(int[] massive)
     {
+        string result = "";
         for (int i = 0; i < massive.Length; i++)
         {
-            string result = massive[i] + ", ";
-            Console.Write(result);
+            result = result + massive[i] + ", ";
+            // Console.WriteLine(result);
         }
+        Console.WriteLine(result.Substring(0, result.Length - 2));
     }
     static void Main(string[] args)
     {
