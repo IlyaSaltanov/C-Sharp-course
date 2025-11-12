@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/bin/Debug/net9.0/Benford's Law with NORMAL SOLVING
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/bin/Debug/net9.0/Benford's Law with NORMAL SOLVING.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/bin/Debug/net9.0/Benford's Law with NORMAL SOLVING.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/bin/Debug/net9.0/Benford's Law with NORMAL SOLVING.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/bin/Debug/net9.0/Benford's Law with NORMAL SOLVING.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/refint/Benford's Law with NORMAL SOLVING.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/Benford's Law with NORMAL SOLVING.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/Benford's Law with NORMAL SOLVING/obj/Debug/net9.0/ref/Benford's Law with NORMAL SOLVING.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Benford's Law with NORMAL SOLVING/1.0.0": {
+        "runtime": {
+          "Benford's Law with NORMAL SOLVING.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Benford's Law with NORMAL SOLVING/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
