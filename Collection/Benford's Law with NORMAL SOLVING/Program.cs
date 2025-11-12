@@ -4,6 +4,7 @@
 
 using System.Text.RegularExpressions;
 using System.Globalization;
+using System.Reflection.Metadata;
 
 class Program
 {
@@ -16,14 +17,32 @@ class Program
         {
             // Console.WriteLine(lines[i]);
             var line = lines[i];
-            if (Regex.IsMatch(line, @"[0-9]"))
+            bool flag = true;
+            // for (int w = 0; w < line.Length; w++)
+            // {
+            //     if (!char.IsDigit(line[w]))
+            //     {
+            //         flag = false;
+            //         break;
+            //     }
+            // }
+            if (flag == true)
             {
                 var elements = line.Split(' ');
                 // var number = elements[elements.Length - 1];
                 for (int q = 0; q < elements.Length; q++)
                 {
                     var element = elements[q];
-                    if (Regex.IsMatch(element, @"[0-9]"))
+                    bool flag2 = true;
+                    for (int r = 0; r < element.Length; r++)
+                    {
+                        if (!char.IsDigit(element[r]))
+                        {
+                            flag2 = false;
+                            break;
+                        }
+                    }
+                    if (flag2 == true)
                     {
                         var digit = element[0];
                         statistics[digit - '0'] += 1;
