@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/bin/Debug/net9.0/A stranger again
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/bin/Debug/net9.0/A stranger again.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/bin/Debug/net9.0/A stranger again.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/bin/Debug/net9.0/A stranger again.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/bin/Debug/net9.0/A stranger again.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/refint/A stranger again.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/A stranger again.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Collection/A stranger again/obj/Debug/net9.0/ref/A stranger again.dll
