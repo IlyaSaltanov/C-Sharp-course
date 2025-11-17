@@ -1,27 +1,29 @@
 ﻿
-
+using System;
+using System.Diagnostics;
+using System.Text;
 
 
 class Program
 {
     private static string ApplyCommands(string[] commands)
     {
-        string str = "";
+        StringBuilder str = new StringBuilder("");
         for (int i = 0; i < commands.Length; i++)
         {
             string line = commands[i];
             string[] elements = line.Split();
             if (elements[0] == "push")
             {
-                    str += line.Substring(5);
+                    str.Append(line.Substring(5));
             }
             else
             {
-                str = str.Substring(0, str.Length - int.Parse(elements[1]));
+                str = str.Remove(str.Length - int.Parse(elements[1]), int.Parse(elements[1]));
             }
 
         }
-        return str;
+        return str.ToString();
     }
     static void Main(string[] args)
     {
