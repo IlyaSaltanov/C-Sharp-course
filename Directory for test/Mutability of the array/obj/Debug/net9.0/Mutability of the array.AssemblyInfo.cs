@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Passwords")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mutability of the array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb8e599c17a60e222656d93c4d7506fc41f88a0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Passwords")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Passwords")]
+[assembly: System.Reflection.AssemblyProductAttribute("Mutability of the array")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Mutability of the array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
