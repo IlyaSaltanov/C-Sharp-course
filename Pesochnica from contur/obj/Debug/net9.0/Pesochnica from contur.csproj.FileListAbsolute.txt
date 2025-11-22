@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/bin/Debug/net9.0/Pesochnica from contur
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/bin/Debug/net9.0/Pesochnica from contur.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/bin/Debug/net9.0/Pesochnica from contur.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/bin/Debug/net9.0/Pesochnica from contur.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/bin/Debug/net9.0/Pesochnica from contur.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/refint/Pesochnica from contur.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/Pesochnica from contur.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Pesochnica from contur/obj/Debug/net9.0/ref/Pesochnica from contur.dll

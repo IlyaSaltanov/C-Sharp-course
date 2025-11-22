@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("route-planning")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pesochnica from contur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc64d31457cc8ce27ef1972ba0b6644f2f610c3d")]
-[assembly: System.Reflection.AssemblyProductAttribute("route-planning")]
-[assembly: System.Reflection.AssemblyTitleAttribute("route-planning")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pesochnica from contur")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pesochnica from contur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

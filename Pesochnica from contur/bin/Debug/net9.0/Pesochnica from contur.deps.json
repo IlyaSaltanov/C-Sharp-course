@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pesochnica from contur/1.0.0": {
+        "runtime": {
+          "Pesochnica from contur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pesochnica from contur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
