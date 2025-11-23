@@ -1,13 +1,12 @@
 using System.Drawing;
-// using System.Collections.Generic;
 using System;
 
 namespace RoutePlanning;
 
 public static class PathFinderTask
 {
-	private static int[] bestOrder;
-    private static double bestLength;
+	static int[] bestOrder;
+    static double bestLength;
 
 	public static int[] FindBestCheckpointsOrder(Point[] checkpoints)
 	{
