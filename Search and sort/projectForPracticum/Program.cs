@@ -1,5 +1,6 @@
 ﻿
 
+
 class Program
 {
     static void Main(string[] args)
@@ -7,10 +8,15 @@ class Program
         // Здесь будет ваш код
         int n = int.Parse(Console.ReadLine());
         int[] sp = new int[n];
-        while (Console.ReadLine() != "q")
+        for (int i = 0; i < n; i++)
         {
-            
+            sp[i] = i;
         }
+        var result = string.Join(", ", sp);
+        Console.WriteLine(result);
+
+        int k = int.Parse(Console.ReadLine());
+        Console.WriteLine(sp[sp.Length - k]);
     }
 }
 
