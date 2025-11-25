@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/bin/Debug/net9.0/projectForPracticum
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/bin/Debug/net9.0/projectForPracticum.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/bin/Debug/net9.0/projectForPracticum.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/bin/Debug/net9.0/projectForPracticum.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/bin/Debug/net9.0/projectForPracticum.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/refint/projectForPracticum.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/projectForPracticum.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Search and sort/projectForPracticum/obj/Debug/net9.0/ref/projectForPracticum.dll
