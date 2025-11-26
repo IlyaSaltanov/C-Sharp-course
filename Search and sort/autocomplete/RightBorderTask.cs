@@ -26,10 +26,10 @@ public class RightBorderTask
 	public static int GetRightBorderIndex(IReadOnlyList<string> phrases, string prefix, int left, int right)
 	{
 		// IReadOnlyList похож на List, но у него нет методов модификации списка.
-		// Этот код решает задачу, но слишком неэффективно. Замените его на бинарный поиск!
+		int itemsLength = phrases.Count;
+		bool flag = itemsLength > 0;
 
-
-		while (left + 1 < right)
+		while (flag && left + 1 < right)
 		{
 			var m = left + (right - left) / 2;
 			var currentPhrase = phrases[m];
@@ -48,18 +48,17 @@ public class RightBorderTask
 		}
 
 		bool lastComparison = MyCompare(phrases[left], prefix) > 0;
-		int notFound = -1;
-		if (lastComparison)
+		var lastVariablStartWith = MyStartsWith(phrases[left], prefix);
+		// bool result = lastComparison && lastVariablStartWith;
+		bool result = lastComparison;
+		if (flag && result)
 		{
 			return left;
 		}
-		else if (!lastComparison)
+		else if (flag && !result)
 		{
 			return right;
 		}
-		else return notFound;
-		// if (comparison < 0 && variablStartWith)
-		// 	return GetLeftBorderIndex(phrases, prefix, m, right);
-		// return GetLeftBorderIndex(phrases, prefix, left, m);
+		else return itemsLength;
 	}
 }
