@@ -15,16 +15,48 @@ public class RightBorderTask
 	/// Функция должна быть НЕ рекурсивной
 	/// и работать за O(log(items.Length)*L), где L — ограничение сверху на длину фразы
 	/// </remarks>
+	static int MyCompare(string currentPhrase, string prefix)
+	{
+		return string.Compare(currentPhrase, prefix, StringComparison.InvariantCultureIgnoreCase);
+	}
+	static bool MyStartsWith(string currentPhrase, string prefix)
+    {
+        return !currentPhrase.StartsWith(prefix, StringComparison.InvariantCultureIgnoreCase);
+    }
 	public static int GetRightBorderIndex(IReadOnlyList<string> phrases, string prefix, int left, int right)
 	{
 		// IReadOnlyList похож на List, но у него нет методов модификации списка.
 		// Этот код решает задачу, но слишком неэффективно. Замените его на бинарный поиск!
-		for (int i = phrases.Count-1; i >= 0; i--)
+		
+
+		while (left + 1 < right)
 		{
-			if (string.Compare(prefix, phrases[i], StringComparison.InvariantCultureIgnoreCase) >= 0 
-			    || phrases[i].StartsWith(prefix, StringComparison.InvariantCultureIgnoreCase))
-				return i + 1;
+			var m = left + (right - left) / 2;
+			var currentPhrase = phrases[m];
+			
+			var comparison = string.Compare(currentPhrase, prefix, StringComparison.InvariantCultureIgnoreCase);
+			var variablStartWith = !currentPhrase.StartsWith(prefix, StringComparison.InvariantCultureIgnoreCase);
+		
+			if (comparison > 0 && variablStartWith)
+			{
+				right = m;
+			}
+			else
+			{
+				left = m;
+			}
 		}
-		return 0;
+		if (phrases[left] > )
+		{
+			return left;
+		}
+        else
+        {
+			return right;
+        }
+		return -1;
+		// if (comparison < 0 && variablStartWith)
+		// 	return GetLeftBorderIndex(phrases, prefix, m, right);
+		// return GetLeftBorderIndex(phrases, prefix, left, m);
 	}
 }
