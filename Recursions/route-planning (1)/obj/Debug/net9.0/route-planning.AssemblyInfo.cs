@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("route-planning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab0a4a3b0f9ec7715412ba28bdd802c1908da02c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e50244ba027201796847a07d4afa794457a7fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("route-planning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("route-planning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
