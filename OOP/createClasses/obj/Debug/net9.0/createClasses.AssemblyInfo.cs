@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PracticumVersion2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("createClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eebae35dd3c64a5e360e3398ad24ea78b3ba1dfe")]
-[assembly: System.Reflection.AssemblyProductAttribute("PracticumVersion2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PracticumVersion2")]
+[assembly: System.Reflection.AssemblyProductAttribute("createClasses")]
+[assembly: System.Reflection.AssemblyTitleAttribute("createClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
