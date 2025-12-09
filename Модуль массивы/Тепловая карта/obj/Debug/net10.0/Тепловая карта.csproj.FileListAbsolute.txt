@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/bin/Debug/net10.0/Тепловая карта
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/bin/Debug/net10.0/Тепловая карта.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/bin/Debug/net10.0/Тепловая карта.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/bin/Debug/net10.0/Тепловая карта.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/bin/Debug/net10.0/Тепловая карта.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/refint/Тепловая карта.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/Тепловая карта.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Тепловая карта/obj/Debug/net10.0/ref/Тепловая карта.dll
