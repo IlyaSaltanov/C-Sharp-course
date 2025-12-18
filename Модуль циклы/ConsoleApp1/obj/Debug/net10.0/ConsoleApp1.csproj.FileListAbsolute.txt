@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль циклы/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll

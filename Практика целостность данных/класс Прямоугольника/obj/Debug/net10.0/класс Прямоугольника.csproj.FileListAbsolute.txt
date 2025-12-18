@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/bin/Debug/net10.0/класс Прямоугольника
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/bin/Debug/net10.0/класс Прямоугольника.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/bin/Debug/net10.0/класс Прямоугольника.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/bin/Debug/net10.0/класс Прямоугольника.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/bin/Debug/net10.0/класс Прямоугольника.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/refint/класс Прямоугольника.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/класс Прямоугольника.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Практика целостность данных/класс Прямоугольника/obj/Debug/net10.0/ref/класс Прямоугольника.dll

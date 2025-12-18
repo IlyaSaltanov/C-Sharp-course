@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поиск массива в массиве", "Поиск массива в массиве.csproj", "{EDC08F8B-BC27-6EF3-7906-065D64C5D294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC08F8B-BC27-6EF3-7906-065D64C5D294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC08F8B-BC27-6EF3-7906-065D64C5D294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC08F8B-BC27-6EF3-7906-065D64C5D294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC08F8B-BC27-6EF3-7906-065D64C5D294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1D9CE0-BBE0-4038-BD2F-8F7E74A0A3BE}
+	EndGlobalSection
+EndGlobal

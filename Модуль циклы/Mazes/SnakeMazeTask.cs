@@ -4,7 +4,7 @@ namespace Mazes;
 
 public static class SnakeMazeTask
 {   
-    public static void LookingForWayOut(Robot robot, int width, int height)
+    public static void MoveOut(Robot robot, int width, int height)
     {
         int LengthWey = (height - 1 - 1) / 2 + 1;
         for (int q = 0; q < LengthWey; q++)

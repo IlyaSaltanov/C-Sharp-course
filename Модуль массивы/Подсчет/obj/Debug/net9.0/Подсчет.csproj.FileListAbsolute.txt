@@ -1,0 +1,5 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Подсчет/obj/Debug/net9.0/Подсчет.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Подсчет/obj/Debug/net9.0/Подсчет.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Подсчет/obj/Debug/net9.0/Подсчет.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Подсчет/obj/Debug/net9.0/Подсчет.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/Модуль массивы/Подсчет/obj/Debug/net9.0/Подсчет.sourcelink.json
