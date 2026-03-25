@@ -1,6 +1,0 @@
-/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/BeeRun.Tests/obj/Debug/net8.0/BeeRun.Tests.csproj.AssemblyReference.cache
-/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/BeeRun.Tests/obj/Debug/net8.0/BeeRun.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/BeeRun.Tests/obj/Debug/net8.0/BeeRun.Tests.AssemblyInfoInputs.cache
-/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/BeeRun.Tests/obj/Debug/net8.0/BeeRun.Tests.AssemblyInfo.cs
-/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/BeeRun.Tests/obj/Debug/net8.0/BeeRun.Tests.csproj.CoreCompileInputs.cache
-/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/BeeRun.Tests/obj/Debug/net8.0/BeeRun.Tests.sourcelink.json

@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/bin/Debug/net8.0-windows/SimpleGame
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/bin/Debug/net8.0-windows/SimpleGame.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/bin/Debug/net8.0-windows/SimpleGame.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/bin/Debug/net8.0-windows/SimpleGame.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/bin/Debug/net8.0-windows/SimpleGame.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/refint/SimpleGame.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/SimpleGame.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Игра/obj/Debug/net8.0-windows/ref/SimpleGame.dll
