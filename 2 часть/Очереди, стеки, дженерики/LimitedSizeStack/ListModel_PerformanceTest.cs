@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 using Assert = NUnit.Framework.Legacy.ClassicAssert;
 
 namespace LimitedSizeStack;
@@ -6,7 +6,7 @@ namespace LimitedSizeStack;
 [TestFixture]
 class ListModel_PerformanceTest
 {
-	[Test, Timeout(500)]
+	[Test, CancelAfter(500)]
 	[Description("Не нужно хранить все состояния модели")]
 	public void AntiStupidTest()
 	{

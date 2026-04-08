@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/bin/Debug/net10.0/SQ1
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/bin/Debug/net10.0/SQ1.deps.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/bin/Debug/net10.0/SQ1.runtimeconfig.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/bin/Debug/net10.0/SQ1.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/bin/Debug/net10.0/SQ1.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.sourcelink.json
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/refint/SQ1.dll
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.pdb
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/SQ1.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/C# (Course from contur)/2 часть/Очереди, стеки, дженерики/SQ1/obj/Debug/net10.0/ref/SQ1.dll

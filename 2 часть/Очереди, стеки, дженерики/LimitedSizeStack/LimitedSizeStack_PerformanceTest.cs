@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 using Assert = NUnit.Framework.Legacy.ClassicAssert;
 
 namespace LimitedSizeStack;
@@ -6,7 +6,7 @@ namespace LimitedSizeStack;
 [TestFixture]
 public class LimitedSizeStack_PerformanceTest
 {
-	[Test, Timeout(500), Description("Push должен работать быстро, даже при большом лимите на размер стека")]
+	[Test, CancelAfter(500), Description("Push должен работать быстро, даже при большом лимите на размер стека")]
 	public void Push_ShouldTakeConstantTime()
 	{
 		var undoLimit = 100000;
@@ -18,7 +18,7 @@ public class LimitedSizeStack_PerformanceTest
 		Assert.AreEqual(undoLimit, stack.Count);
 	}
 
-	[Test, Timeout(500), Description("Pop должен работать быстро, даже при большом лимите на размер стека")]
+	[Test, CancelAfter(500), Description("Pop должен работать быстро, даже при большом лимите на размер стека")]
 	public void Pop_ShouldTakeConstantTime()
 	{
 		var undoLimit = 200000;

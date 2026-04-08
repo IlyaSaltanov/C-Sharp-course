@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LimitedSizeStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932affec55cfde0e827d29735b5c993c850ced70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e26626e131b70fac5224ac9e269a6d3160e7e6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LimitedSizeStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LimitedSizeStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

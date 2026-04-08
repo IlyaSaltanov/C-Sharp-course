@@ -25,12 +25,12 @@ public class LimitedSizeStack<T>
 
 	public T Pop()
 	{
-		if (_list.Count == 0)
+		var last = _list.Last;
+		if (last == null)
 		{
 			throw new InvalidOperationException("Stack is empty");
 		}
 
-		var last = _list.Last!;
 		_list.RemoveLast();
 		return last.Value;
 	}
